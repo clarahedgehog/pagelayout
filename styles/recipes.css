@@ -1,0 +1,21 @@
+.recipes {
+  background-color: #F2E8CF;
+  padding: 28px;
+  margin: 0;
+}
+
+.recipes-container {
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.recipes-table {
+  width: 100%;
+}
+
+th, td {
+  padding: 20px;
+  text-align: left;
+  border-bottom: 1px solid #6A994E;
+}
