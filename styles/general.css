@@ -54,8 +54,8 @@ body {
 
 .sidebar a.active-page
 {
-  background-color: #6A994E;
-  color: #F2E8CF;
+    background-color: #6A994E;
+    color: #F2E8CF;
 }
 
 .menu__item {
