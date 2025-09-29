@@ -63,6 +63,10 @@ body {
     color: #386641;
 }
 
+h1 {
+    font-size: 1.74rem;
+}
+
 .main {
     background-color: #F2E8CF;
     padding: 28px;
